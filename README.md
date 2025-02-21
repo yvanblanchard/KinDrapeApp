@@ -34,6 +34,13 @@ streamlit run app.py
 
 ![KinDrape_StreamlitApp](https://github.com/user-attachments/assets/41de4c92-551c-44ce-9a76-3fec84b53734)
 
+
+## Next improvements
+- Guiding (start) curve
+- Energy-based algorithm
+- Friction between layers
+- Darts inclusion,...
+
 ## Credits
 Krogh, C., Bak, B.L.V., Lindgaard, E. et al. "A simple MATLAB draping code for fiber-reinforced composites with application to optimization of manufacturing process parameters". 
 Struct Multidisc Optim 64, 457–471 (2021).
