@@ -1,6 +1,6 @@
 # KinDrapeApp
-This is a demonstrator fo Kinematics-based composites draping simulation streamlit application.
-Using optimization for shearing angle minimization.
+This is a demonstrator for Kinematics-based composites draping simulation streamlit application.
+Using optimization for shearing angle minimization (Newton-Raphson).
 
 ## Context
 The hand layup process involves manually placing layers (plies) of fiber reinforcement materials (like carbon fiber or glass fiber fabrics) onto a mold surface. Each ply is carefully positioned and pressed down to conform to the mold geometry. The fabric is typically pre-impregnated with resin (prepreg) or resin is applied during layup. The layers are built up according to a specific stacking sequence designed to achieve desired mechanical properties in different directions.
