@@ -18,17 +18,21 @@ The kinematic draping algorithm simulates fabric deformation by treating the rei
 
 ![KinDrape_DrapingAlgorithm](https://github.com/user-attachments/assets/6e800182-e9e2-4881-845f-5e1ed4e997cd)
 
-## Usage
-streamlit run app.py
-
-![KinDrape_StreamlitApp](https://github.com/user-attachments/assets/41de4c92-551c-44ce-9a76-3fec84b53734)
-
 ## Dependencies
 - streamlit
 - plotly
 - matplotlib
 - numpy
 - scipy
+
+## Usage
+streamlit run app.py
+- Select mold type: Hemisphere or Saddle
+- Adjust settings
+- Click on Run simulation
+- Shearing angle analysis is displayed
+
+![KinDrape_StreamlitApp](https://github.com/user-attachments/assets/41de4c92-551c-44ce-9a76-3fec84b53734)
 
 ## Credits
 Krogh, C., Bak, B.L.V., Lindgaard, E. et al. "A simple MATLAB draping code for fiber-reinforced composites with application to optimization of manufacturing process parameters". 
